@@ -2,7 +2,7 @@
 
 Link: https://github.com/yuexintonychen/NOBS-Fake-News-Detector
 
-Install Python 3, npm/Node.JS, React, Scikit-Learn and run [npm install] in both "detector" and "fake-news-final" folder.
+Install Python 3, npm/Node.JS, React, Scikit-Learn and run [npm install] in "fake-news-final" folder.
 
 Initiate the back-end server, in "detector" folder run [python3 server.py] 
 
