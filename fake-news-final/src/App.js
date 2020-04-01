@@ -144,7 +144,7 @@ getArticleData(link){
               <tbody>
                 <tr>
                   <td><Logo className="App-logo"></Logo></td>
-                  <td><h3>Fake News Search</h3></td>
+                  <td><h3>News Search & Fake News Detector</h3></td>
                 </tr>
               </tbody>
             </table>
