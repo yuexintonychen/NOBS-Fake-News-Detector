@@ -1,19 +1,31 @@
-## INF134 NOBS Fake News Detector
+# INF134 NOBS Fake News Detector
+
+This is a news search and fake news detector tool built with React on the front-end and Python and Scikit-Learn on the back-end.
+
+![Demo Screenshot](Demo.png)
 
 Link: https://github.com/yuexintonychen/NOBS-Fake-News-Detector
 
-Install Python 3, npm/Node.JS, React, Scikit-Learn and run [npm install] in "fake-news-final" folder.
+## Project Setup Tutorial
 
-Initiate the back-end server, in "detector" folder run [python3 server.py] 
+1. Download and install Python 3: https://www.python.org/downloads/.
 
-Before running server.py, make sure to run the following command in command line/terminal to install the required dependancies: 
+2. Install Scikit Learn, as well as the required dependencies by running the following command in command line/shell:
 
-[pip install -U scikit-learn]
+   [pip install scikit-learn]
+   
+   [pip install numpy]
 
-[pip install numpy]
+   [pip install scipy]
 
-[pip install scipy]
+3. Get Node.js, go to https://www.nodejs.org. Install npm from https://www.npmjs.com/get-npm.
 
-Initiate front-end server, in "fake-news-final" folder, run [npm start]. 
+4. To install React, run [npm i react] in command line/shell.
 
-The site is now ready to go. You can search an url or enter some keywords to see the latest news and the likelihood of a news article being real/fake.
+5. In "fake-news-final" folder, run [npm install].
+
+6. To start the back-end server, in "detector" folder, run [python3 server.py].
+
+7. To front-end server, in "fake-news-final" folder, run [npm start]. 
+
+8. The site is now ready to go. Open browser and go to http://localhost:3000. You can search an url or enter some keywords to see the latest news and the likelihood of a news article being real/fake.
