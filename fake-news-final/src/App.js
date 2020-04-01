@@ -148,8 +148,8 @@ getArticleData(link){
                 </tr>
               </tbody>
             </table>
-            <Form style={{width:'60%',margin:'0 auto',textAlign:'center'}} onSubmit={this.handleSubmit}>
-              <input value={this.state.value} onChange={this.handleChange} style={{display:'block', margin: '0px', width:'99%', paddingTop:"8px", paddingBottom:"8px", paddingLeft:"8px", contentAlign:"center"}} type="text" placeholder="Enter article URL or keywords"/>
+            <Form style={{width:'45%',margin:'0 auto',textAlign:'center'}} onSubmit={this.handleSubmit}>
+              <input value={this.state.value} onChange={this.handleChange} style={{fontSize: '110%', display:'block', margin: '0px', width:'99%', paddingTop:"8px", paddingBottom:"8px", paddingLeft:"8px", contentAlign:"center"}} type="text" placeholder="Enter article URL or keywords"/>
               <input className="search-button" type="submit" style={{fontSize: '95%', fontWeight: 'bold'}} value="Submit"/>
             </Form>
             <Form style={{width:'100%',margin:'3px',textAlign:'center'}}> <a className="search-button" href="https://etherscan.io/tx/0x2d6a7b0f6adeff38423d4c62cd8b6ccb708ddad85da5d3d06756ad4d8a04a6a2" target="_blank"> View in Blockchain </a> </Form>
