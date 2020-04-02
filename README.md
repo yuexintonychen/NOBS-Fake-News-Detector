@@ -28,4 +28,4 @@ Link: https://github.com/yuexintonychen/NOBS-Fake-News-Detector
 
 7. To front-end server, in "fake-news-final" folder, run [npm start]. 
 
-8. The site is now ready to go. Open browser and go to http://localhost:3000. You can search an url or enter some keywords to see the latest news and the likelihood of a news article being real/fake.
+8. The site is now ready to go. Open browser and go to http://localhost:3000. You can search a URL or enter some keywords to see the latest news and the likelihood of a news article being real/fake.
