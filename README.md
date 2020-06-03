@@ -1,6 +1,8 @@
 # INF134 NOBS Fake News Detector
 
-This is a news search and fake news detector tool built with React on the front-end and Python and Scikit-Learn on the back-end.
+• A news search engine and fake news detector tool built with Node.js and React on the front-end and Python and Scikit-Learn on the back-end
+
+• With a URL or keyword(s), the tool can retrieve the latest related news and provide an estimated truth value for each news article
 
 ![Demo Screenshot](Demo.png)
 
